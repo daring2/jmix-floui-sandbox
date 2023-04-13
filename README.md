@@ -1,1 +1,1 @@
-# jmix-floui-sandbox
+# jmix-flowui-sandbox
