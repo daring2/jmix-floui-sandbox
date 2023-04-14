@@ -3,6 +3,7 @@
 
     <menu id="application" title="msg://com.company.sandbox/menu.application.title" opened="true">
         <item view="sb_User.list" title="msg://com.company.sandbox.view.user/UserListView.title"/>
+        <item view="sb_TestEntity.list" title="msg://com.company.sandbox.view.testentity/testEntityListView.title"/>
     </menu>
 
 </menu-config>
