@@ -1,0 +1,21 @@
+.gradle
+.jmix
+.idea
+
+
+build/
+out/
+
+/config/
+/log/
+/temp/
+
+# flow-ui files
+frontend/generated/
+node_modules/
+
+.npmrc
+.pnpmfile.cjs
+pnpmfile.js
+vite.generated.ts
+webpack.generated.js
